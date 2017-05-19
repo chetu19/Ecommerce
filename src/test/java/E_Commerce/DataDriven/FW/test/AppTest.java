@@ -1,4 +1,4 @@
-package E_Commerce.DataDriven.FW;
+package E_Commerce.DataDriven.FW.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

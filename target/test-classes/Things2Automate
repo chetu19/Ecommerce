@@ -1,0 +1,7 @@
+Things to Automate
+a. Login to flipkart
+b. Fetch the product from the spreadhsheet. Make the search and 
+add the first product into the cart
+c. Click on the cart and checkout.
+d. Select the payment method
+e. Display the final amount. 
